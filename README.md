@@ -1,10 +1,10 @@
+![effect](./effect.png)
+
 # vscode-css
 
-based on extension: Custom CSS and JS Loader
+> 更好看的 VSCode 图标
 
-effect:
-
-![effect](./effect.png)
+based on extension: "Custom CSS and JS Loader".
 
 usage:
 
@@ -24,7 +24,9 @@ then `ctrl + shift + p`(or`command + shift + p` for mac) again, type `Reload Cus
 
 # background
 
-based on VSCode extension: background.
+> 塔菲表情包替代插件默认的东方小人
+
+based on VSCode extension: "background".
 
 edit the `settings.json`, add the following content:
 
