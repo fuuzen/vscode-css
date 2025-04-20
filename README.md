@@ -1,4 +1,4 @@
-![effect](./effect.png)
+![effect](./assets/effect.png)
 
 # vscode-css
 
